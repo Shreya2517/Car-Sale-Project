@@ -26,5 +26,7 @@ Automotive sales data is often fragmented—making it hard to understand what’
 
 Dataset sourced from Internal files containing details on sales, body style, color, region, engine, and more.
 
+Snapshot  : https://github.com/Shreya2517/Car-Sale-Project/blob/main/Picture%201.png
+
 
 
